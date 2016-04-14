@@ -31,3 +31,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# DS files
+.DS_Store
+
+# API file
+APIconfig.js
